@@ -1,0 +1,6 @@
+git init : Initialise a gift repository
+git add [filename] : "stage" a file so it is ready to save
+a
+b
+c
+d
