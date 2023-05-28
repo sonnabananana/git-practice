@@ -9,3 +9,8 @@ git push
 git pullg
 
 norhin
+git pull
+git pull
+testgi
+
+yipee
