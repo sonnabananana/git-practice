@@ -6,12 +6,4 @@ git add [filename] : "stage" a file so it is ready to save
 git commit -m "Message" : "commit" (i.e. Save) the files you staged
 
 git push
-git pullg
-
-norhin
-git pull
-git pull
-testgi
-
-yipee
 git pull
